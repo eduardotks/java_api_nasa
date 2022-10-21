@@ -1,2 +1,2 @@
-# java_api_nasa
-Consome API da Nasa, gerando imagens no diretório de saída. 
+### Consumindo API da NASA
+Consumindo uma api da NASA e criando Stickers para WhatsApp/Telegram usando a linguagem java.
